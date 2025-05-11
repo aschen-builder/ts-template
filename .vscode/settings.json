@@ -1,0 +1,10 @@
+{
+	// required in vscode-eslint < v3.0.10 only
+	// "eslint.useFlatConfig": true
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"eslint.problems.shortenToSingleLine": true,
+	"eslint.useESLintClass": true,
+	"eslint.useFlatConfig": true,
+	"prettier.experimentalTernaries": true,
+}
