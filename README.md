@@ -9,5 +9,3 @@ The following packages/tools come pre-installed:
 - Vitest
 - TS-Node
 - TypeScript
-
-Adding a change
